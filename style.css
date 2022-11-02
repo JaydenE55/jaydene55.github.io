@@ -1,0 +1,56 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    
+  }
+  
+  table, th, td {
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    
+  }
+  
+  .pictures {
+    width: 490px;
+    height: auto;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+  
+  h1 {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: blue;
+    text-align: center;
+  }
+  
+  h2 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    color:white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+  
+  ul, li {
+    color: white
+    
+  }
+  
+  .future {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+  
